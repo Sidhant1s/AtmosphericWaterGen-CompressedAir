@@ -38,7 +38,7 @@ This project is **open for collaboration** with:
 - NGOs working in water-scarce regions
 - Environmental technology startups
 
-📬 Contact: [Sidhant Negi](https://github.com/sidhantnegi)
+
 
 ---
 
